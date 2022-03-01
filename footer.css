@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.footer-background {
+    background-color: #19232d;
+    height: 100vh;
+    background-size: cover;
+}
+
+.image-logo {
+    height: 50px;
+    width: 75px;
+}
+
+.google-icon {
+    font-size: 35px;
+    color: #959ead;
+}
+
+.google-card {
+    height: 65px;
+    width: 65px;
+    background-color: #5a7184;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 12px;
+    padding-right: 12px;
+    border-radius: 40px;
+    margin-right: 15px;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.c-head {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.env-icon {
+    font-size: 30px;
+    color: #959ead;
+}
+
+.span-h {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #5a7184;
+    font-weight: 400;
+}
+
+.list-style {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.hori {
+    background-color: #5a7184;
+}
+
+.copy-right {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #959ead;
+    font-weight: 400;
+}
